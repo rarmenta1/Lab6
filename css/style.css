@@ -33,8 +33,6 @@
   text-decoration: none;
 }
 
-/* add or remove hover? */
-
 #main-navbar ul li a:hover  {
   background-color: #000;
 }
